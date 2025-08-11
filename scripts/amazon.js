@@ -88,8 +88,8 @@ document.querySelectorAll('.js-add-to-cart')
         })
       document.querySelector('.js-cart-quantity').innerHTML = cartQuantity;
     }
-    
-    updateQuantity();
 
+    updateQuantity();
+    
   });
 });
